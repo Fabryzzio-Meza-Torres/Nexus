@@ -1,0 +1,53 @@
+# Verificación del paquete
+
+Realizada el 10 de septiembre de 2026.
+- Se conservaron todos los archivos del ZIP base; se actualizaron los afectados y se añadieron importador, CSV, JSON, fixtures y criterios de aceptación.
+- Importador ejecutado dos veces: resultados idénticos byte a byte.
+- CSV preservado byte a byte, SHA256: 4d8507f31b371950ab22a7ace39d46843b7a8a6ca14f18e9fdc3713de9010b46.
+- 60 filas, 3 especialidades (20 cada una), 180 asociaciones, 89 marcas distintas, 180 ofertas demo, 60 familias con tres proveedores.
+- IDs/SKU únicos; proveedor y ubicación presentes en todas las ofertas; especificaciones desconocidas vacías y procedencia sintética explícita.
+- Confianza: 14 filas con declaración de verificación en la conversación original, 46 con advertencia de no verificación local. Se conserva el texto sin validarlo independientemente.
+- Seis requerimientos fixture con candidatos del catálogo.
+- Enlaces Markdown locales existentes. Revisión de contratos/roles y búsqueda de patrones heredados sin contradicciones detectadas.
+- No se implementó ni ejecutó la aplicación Nexus, ni se aplicaron migraciones Supabase. Las pruebas de permisos, concurrencia, matching y cierre de la aplicación están especificadas en specs/acceptance-tests.md para su implementación.
+
+## Archivos actualizados o añadidos
+- CATALOG-REPORT.md
+- CHANGELOG.md
+- CLAUDE.md
+- README.md
+- START-HERE.md
+- data\catalog-taxonomy.json
+- data\catalog.json
+- data\demo-document.md
+- data\demo-project.json
+- data\demo-requirements.json
+- data\import-report.json
+- data\source\README.md
+- data\source\catalogo-marcas-por-tipo.csv
+- fichas tecnicas\README.md
+- scripts\catalog\README.md
+- scripts\catalog\import_catalog.py
+- specs\acceptance-tests.md
+- specs\agent-parallel-plan.md
+- specs\ai-spec.md
+- specs\catalog-generator.md
+- specs\data-model.md
+- specs\demo-plan.md
+- specs\features\approval.md
+- specs\features\change-requests.md
+- specs\features\document-processing.md
+- specs\features\global-matching.md
+- specs\features\selection.md
+- specs\features\technical-review.md
+- specs\functional-requirements.md
+- specs\implementation-plan.md
+- specs\non-functional-requirements.md
+- specs\prompts.md
+- specs\roles-requirements-matrix.md
+- specs\spec.md
+- specs\technical-architecture.md
+- specs\users.md
+- specs\ux.md
+- supabase\README.md
+- supabase\migrations\README.md

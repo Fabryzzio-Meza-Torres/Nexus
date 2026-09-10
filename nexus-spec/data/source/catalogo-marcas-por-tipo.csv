@@ -1,0 +1,61 @@
+Especialidad,Tipo,Marca 1,Marca 2,Marca 3,Confianza
+Sanitaria,Inodoros,Trébol,Vainsa,Corona,Verificado en esta conversación (búsqueda real)
+Sanitaria,Lavatorios,Trébol,Vainsa,Corona,Verificado en esta conversación (búsqueda real)
+Sanitaria,Urinarios,Trébol,Vainsa,Helvex,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Duchas / griferías de ducha,Magnum Arus,Vainsa,Trébol,Verificado en esta conversación (búsqueda real)
+Sanitaria,Griferías de lavatorio,Magnum Arus,Trébol,Vainsa,Verificado en esta conversación (búsqueda real)
+Sanitaria,Griferías de cocina,Magnum Arus,Franke,Trébol,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Calentadores de agua / termas,Record,Marina,Bosch,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Bombas de agua / hidroneumático,Hidrostal,Pedrollo,Franklin Electric,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Tanques cisterna / elevados,Rotoplas,Eternit,Fibrasec,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Fluxómetros,Sloan,Trébol,Helvex,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Bidés,Trébol,Vainsa,Corona,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Lavaderos (cocina / lavandería),Trébol,Franke,Vainsa,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Extractores de aire para baño,Soler & Palau,Sodeca,Casals,Verificado en esta conversación (búsqueda real)
+Sanitaria,Trampas de grasa / cajas de registro,Rotoplas,Eternit,Nicoll,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Sistemas de tratamiento / ablandadores,Culligan,Pentair,EcoWater,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Filtros / purificadores de agua,Culligan,Pentair,3M,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Medidores de agua,Sensus,Itron,Elster,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Válvulas de control,Nicoll,Pavco,Rotoplas,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Calentadores instantáneos (de paso),Bosch,Record,Rheem,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Sanitaria,Accesorios de baño fijos,Trébol,Vainsa,Corona,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Tomacorrientes,Bticino,Schneider,Legrand,Verificado en esta conversación (búsqueda real)
+Eléctrica,Interruptores / apagadores,Bticino,Schneider,Legrand,Verificado en esta conversación (búsqueda real)
+Eléctrica,Tableros de distribución,Schneider,ABB,Siemens,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Tableros de transferencia,Schneider,ABB,Cummins,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Breakers / termomagnéticos,Schneider,ABB,Siemens,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Luminarias interiores LED,Philips,Opple,Sylvania,Verificado en esta conversación (búsqueda real)
+Eléctrica,Luminarias de emergencia / exteriores,Philips,Legrand,Opple,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Transformadores,Schneider,ABB,Siemens,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,UPS / respaldo de energía,APC,Eaton,Vertiv,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Generadores eléctricos,Cummins,Caterpillar,Perkins,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Pozos a tierra / puesta a tierra,Erico,nVent,Indeco,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Cámaras de vigilancia / CCTV,Hikvision,Dahua,Axis,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Videoporteros / citofonía,Bticino,Fermax,Commax,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Tableros de medición,Schneider,ABB,Siemens,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Cargadores vehículos eléctricos,ABB,Schneider,Siemens,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Sistemas de automatización / domótica,Bticino,Schneider,Legrand,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Sensores de movimiento,Bticino,Legrand,Schneider,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Timbres,Bticino,Legrand,Vimar,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Reguladores / estabilizadores de voltaje,Forza,APC,Tripp Lite,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Eléctrica,Bandejas portacables,Legrand,Indeco,Mopal,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Extractores de aire axiales,Soler & Palau,Sodeca,Casals,Verificado en esta conversación (búsqueda real)
+Mecánica,Extractores centrífugos,Soler & Palau,Sodeca,Casals,Verificado en esta conversación (búsqueda real)
+Mecánica,Ventiladores industriales (HVLS),Casals,Big Ass Fans,Multi-Wing,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Aire acondicionado tipo split,Daikin,LG,York,Verificado en esta conversación (búsqueda real)
+Mecánica,Aire acondicionado por ductos,Daikin,Carrier,York,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Unidades manejadoras de aire (UMA),Carrier,Trane,York,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Chillers,Carrier,York,Daikin,Verificado en esta conversación (búsqueda real)
+Mecánica,Torres de enfriamiento,Marley,BAC,Boldrocchi,Verificado en esta conversación (búsqueda real)
+Mecánica,Calderas,Distral,Cleaver-Brooks,Ferroli,Verificado en esta conversación (búsqueda real)
+Mecánica,Compresores de aire,Atlas Copco,Ingersoll Rand,Kaeser,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Ascensores,Otis,Schindler,KONE,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Escaleras mecánicas,Otis,Schindler,ThyssenKrupp,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Montacargas,Otis,KONE,Schindler,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Rociadores contra incendio,Viking,Tyco,Reliable,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Gabinetes contra incendio,Viking,Firetec,Ansul,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Bombas contra incendio,Peerless,Patterson,Hidrostal,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Extintores,Amerex,Ansul,Kidde,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Dampers / compuertas de ventilación,Ruskin,Greenheck,Soler & Palau,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Difusores y rejillas de aire,Titus,Krueger,Soler & Palau,"Marca real reconocida, no verificada hoy para Perú específicamente"
+Mecánica,Extractores de humo (cocina industrial),CaptiveAire,Greenheck,Soler & Palau,"Marca real reconocida, no verificada hoy para Perú específicamente"

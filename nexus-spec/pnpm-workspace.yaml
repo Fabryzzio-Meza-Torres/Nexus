@@ -1,0 +1,9 @@
+packages:
+  - "apps/*"
+
+# sharp (imágenes de Next) y unrs-resolver (resolver de ESLint) traen build
+# nativo. No se necesitan: Next corre sin sharp y el resolver tiene fallback JS.
+# false = no compilar. Deja `pnpm install` en 0 y evita bloqueos de OneDrive.
+allowBuilds:
+  sharp: false
+  unrs-resolver: false

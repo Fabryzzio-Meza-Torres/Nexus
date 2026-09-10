@@ -1,0 +1,12 @@
+{
+  "id": "project-demo",
+  "name": "Obra de demostración",
+  "project_location": {
+    "city": "Lima",
+    "district": "Miraflores",
+    "country": "PE",
+    "latitude": -12.1211,
+    "longitude": -77.0298
+  },
+  "is_demo_data": true
+}

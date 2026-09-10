@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "tax-782df48a56828012d4c7",
+    "category": "Sanitaria",
+    "type_name": "Inodoros",
+    "brand": "Trébol",
+    "source_row": 2,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-51d4fffef3400831453e",
+    "category": "Sanitaria",
+    "type_name": "Inodoros",
+    "brand": "Vainsa",
+    "source_row": 2,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-c1a7be01951a04475706",
+    "category": "Sanitaria",
+    "type_name": "Inodoros",
+    "brand": "Corona",
+    "source_row": 2,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-715eb4112a0a197bd1bc",
+    "category": "Sanitaria",
+    "type_name": "Lavatorios",
+    "brand": "Trébol",
+    "source_row": 3,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-b1c13b9f88cecc4ab73c",
+    "category": "Sanitaria",
+    "type_name": "Lavatorios",
+    "brand": "Vainsa",
+    "source_row": 3,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-574aba8b036ba7225953",
+    "category": "Sanitaria",
+    "type_name": "Lavatorios",
+    "brand": "Corona",
+    "source_row": 3,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-d39f3357a40e7d8190e2",
+    "category": "Sanitaria",
+    "type_name": "Urinarios",
+    "brand": "Trébol",
+    "source_row": 4,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-4cc1a8091bd184a78dd3",
+    "category": "Sanitaria",
+    "type_name": "Urinarios",
+    "brand": "Vainsa",
+    "source_row": 4,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-d03f798ae13eabc2dd0c",
+    "category": "Sanitaria",
+    "type_name": "Urinarios",
+    "brand": "Helvex",
+    "source_row": 4,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-6880777208882aa7d9e1",
+    "category": "Sanitaria",
+    "type_name": "Duchas / griferías de ducha",
+    "brand": "Magnum Arus",
+    "source_row": 5,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-079124fecadfb10f56df",
+    "category": "Sanitaria",
+    "type_name": "Duchas / griferías de ducha",
+    "brand": "Vainsa",
+    "source_row": 5,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-7d04dbf2e8a191eb9c0c",
+    "category": "Sanitaria",
+    "type_name": "Duchas / griferías de ducha",
+    "brand": "Trébol",
+    "source_row": 5,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-5715fca47a3ff5d841e0",
+    "category": "Sanitaria",
+    "type_name": "Griferías de lavatorio",
+    "brand": "Magnum Arus",
+    "source_row": 6,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-c25e214a5695e8d3552d",
+    "category": "Sanitaria",
+    "type_name": "Griferías de lavatorio",
+    "brand": "Trébol",
+    "source_row": 6,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-d796a3671895789e241b",
+    "category": "Sanitaria",
+    "type_name": "Griferías de lavatorio",
+    "brand": "Vainsa",
+    "source_row": 6,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-33029d010c2adcdcb634",
+    "category": "Sanitaria",
+    "type_name": "Griferías de cocina",
+    "brand": "Magnum Arus",
+    "source_row": 7,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-d54d8ad973d1e4aceb1a",
+    "category": "Sanitaria",
+    "type_name": "Griferías de cocina",
+    "brand": "Franke",
+    "source_row": 7,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-4a8cc2857f03de835adc",
+    "category": "Sanitaria",
+    "type_name": "Griferías de cocina",
+    "brand": "Trébol",
+    "source_row": 7,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-5f732d49f8a4d99fde2c",
+    "category": "Sanitaria",
+    "type_name": "Calentadores de agua / termas",
+    "brand": "Record",
+    "source_row": 8,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-21d5fb57fffe80345190",
+    "category": "Sanitaria",
+    "type_name": "Calentadores de agua / termas",
+    "brand": "Marina",
+    "source_row": 8,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-97b47375a1dbc4b631a0",
+    "category": "Sanitaria",
+    "type_name": "Calentadores de agua / termas",
+    "brand": "Bosch",
+    "source_row": 8,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-18a35fd4ac5e590fc19c",
+    "category": "Sanitaria",
+    "type_name": "Bombas de agua / hidroneumático",
+    "brand": "Hidrostal",
+    "source_row": 9,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-17b32cfa7f32f9ac1742",
+    "category": "Sanitaria",
+    "type_name": "Bombas de agua / hidroneumático",
+    "brand": "Pedrollo",
+    "source_row": 9,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-cb177064b8bf5859405a",
+    "category": "Sanitaria",
+    "type_name": "Bombas de agua / hidroneumático",
+    "brand": "Franklin Electric",
+    "source_row": 9,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-f7cb9c7e7f1a084068a3",
+    "category": "Sanitaria",
+    "type_name": "Tanques cisterna / elevados",
+    "brand": "Rotoplas",
+    "source_row": 10,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-ffa84fa8792b99221aec",
+    "category": "Sanitaria",
+    "type_name": "Tanques cisterna / elevados",
+    "brand": "Eternit",
+    "source_row": 10,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-43fa4315075e0b738d5f",
+    "category": "Sanitaria",
+    "type_name": "Tanques cisterna / elevados",
+    "brand": "Fibrasec",
+    "source_row": 10,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-5bc19b8449eea6a6ccb5",
+    "category": "Sanitaria",
+    "type_name": "Fluxómetros",
+    "brand": "Sloan",
+    "source_row": 11,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-88b25dc84bb609f7a655",
+    "category": "Sanitaria",
+    "type_name": "Fluxómetros",
+    "brand": "Trébol",
+    "source_row": 11,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-3b58283016f755afbda8",
+    "category": "Sanitaria",
+    "type_name": "Fluxómetros",
+    "brand": "Helvex",
+    "source_row": 11,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-2621dc46c71f691c0f71",
+    "category": "Sanitaria",
+    "type_name": "Bidés",
+    "brand": "Trébol",
+    "source_row": 12,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-1e8997807efdcce2b472",
+    "category": "Sanitaria",
+    "type_name": "Bidés",
+    "brand": "Vainsa",
+    "source_row": 12,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-9fe69d0ee2973436c755",
+    "category": "Sanitaria",
+    "type_name": "Bidés",
+    "brand": "Corona",
+    "source_row": 12,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-6e50a6e35161e0a1d5c1",
+    "category": "Sanitaria",
+    "type_name": "Lavaderos (cocina / lavandería)",
+    "brand": "Trébol",
+    "source_row": 13,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-13c80cff5cd2468d408b",
+    "category": "Sanitaria",
+    "type_name": "Lavaderos (cocina / lavandería)",
+    "brand": "Franke",
+    "source_row": 13,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-48389a1f02c38438a1f3",
+    "category": "Sanitaria",
+    "type_name": "Lavaderos (cocina / lavandería)",
+    "brand": "Vainsa",
+    "source_row": 13,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-8634876f189ae06210cc",
+    "category": "Sanitaria",
+    "type_name": "Extractores de aire para baño",
+    "brand": "Soler & Palau",
+    "source_row": 14,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-4bd55382356030bf78c7",
+    "category": "Sanitaria",
+    "type_name": "Extractores de aire para baño",
+    "brand": "Sodeca",
+    "source_row": 14,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-b9a4d14250e6d346f5e2",
+    "category": "Sanitaria",
+    "type_name": "Extractores de aire para baño",
+    "brand": "Casals",
+    "source_row": 14,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-0abe88e69e4c0c8ee431",
+    "category": "Sanitaria",
+    "type_name": "Trampas de grasa / cajas de registro",
+    "brand": "Rotoplas",
+    "source_row": 15,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-d60a16236dcca3d3e703",
+    "category": "Sanitaria",
+    "type_name": "Trampas de grasa / cajas de registro",
+    "brand": "Eternit",
+    "source_row": 15,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-3aa2660bd7d81461377c",
+    "category": "Sanitaria",
+    "type_name": "Trampas de grasa / cajas de registro",
+    "brand": "Nicoll",
+    "source_row": 15,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-0464ea0b777207739958",
+    "category": "Sanitaria",
+    "type_name": "Sistemas de tratamiento / ablandadores",
+    "brand": "Culligan",
+    "source_row": 16,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-57ccc6d2559a08cba685",
+    "category": "Sanitaria",
+    "type_name": "Sistemas de tratamiento / ablandadores",
+    "brand": "Pentair",
+    "source_row": 16,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-c64bd3f5ff4b91267d80",
+    "category": "Sanitaria",
+    "type_name": "Sistemas de tratamiento / ablandadores",
+    "brand": "EcoWater",
+    "source_row": 16,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-d91cc9147938bac51487",
+    "category": "Sanitaria",
+    "type_name": "Filtros / purificadores de agua",
+    "brand": "Culligan",
+    "source_row": 17,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-4833bb2dc6438a26c795",
+    "category": "Sanitaria",
+    "type_name": "Filtros / purificadores de agua",
+    "brand": "Pentair",
+    "source_row": 17,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-ab65ebfbe6408511da27",
+    "category": "Sanitaria",
+    "type_name": "Filtros / purificadores de agua",
+    "brand": "3M",
+    "source_row": 17,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-3eab503f5cf738b1bbcf",
+    "category": "Sanitaria",
+    "type_name": "Medidores de agua",
+    "brand": "Sensus",
+    "source_row": 18,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-501af982349e812b9b53",
+    "category": "Sanitaria",
+    "type_name": "Medidores de agua",
+    "brand": "Itron",
+    "source_row": 18,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-e464c1ffbee1bbbc1299",
+    "category": "Sanitaria",
+    "type_name": "Medidores de agua",
+    "brand": "Elster",
+    "source_row": 18,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-a01982d51c2b726da286",
+    "category": "Sanitaria",
+    "type_name": "Válvulas de control",
+    "brand": "Nicoll",
+    "source_row": 19,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-9b8b2eb567605647898c",
+    "category": "Sanitaria",
+    "type_name": "Válvulas de control",
+    "brand": "Pavco",
+    "source_row": 19,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-94b5e9cd4c0441890f71",
+    "category": "Sanitaria",
+    "type_name": "Válvulas de control",
+    "brand": "Rotoplas",
+    "source_row": 19,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-0522f3a745e7f65bbcb8",
+    "category": "Sanitaria",
+    "type_name": "Calentadores instantáneos (de paso)",
+    "brand": "Bosch",
+    "source_row": 20,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-ac00ff88248e098a151a",
+    "category": "Sanitaria",
+    "type_name": "Calentadores instantáneos (de paso)",
+    "brand": "Record",
+    "source_row": 20,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-5e1614e6cc8377758193",
+    "category": "Sanitaria",
+    "type_name": "Calentadores instantáneos (de paso)",
+    "brand": "Rheem",
+    "source_row": 20,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-61a9b813ef9ccd6ad853",
+    "category": "Sanitaria",
+    "type_name": "Accesorios de baño fijos",
+    "brand": "Trébol",
+    "source_row": 21,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-059fd518aae7b8e27f5d",
+    "category": "Sanitaria",
+    "type_name": "Accesorios de baño fijos",
+    "brand": "Vainsa",
+    "source_row": 21,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-00f2fd62238b0111907d",
+    "category": "Sanitaria",
+    "type_name": "Accesorios de baño fijos",
+    "brand": "Corona",
+    "source_row": 21,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-28c1147a943798173ceb",
+    "category": "Eléctrica",
+    "type_name": "Tomacorrientes",
+    "brand": "Bticino",
+    "source_row": 22,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-3beb5b994a0944eb9647",
+    "category": "Eléctrica",
+    "type_name": "Tomacorrientes",
+    "brand": "Schneider",
+    "source_row": 22,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-eb92a55f2b02529721e0",
+    "category": "Eléctrica",
+    "type_name": "Tomacorrientes",
+    "brand": "Legrand",
+    "source_row": 22,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-9be5c03beb79b6718657",
+    "category": "Eléctrica",
+    "type_name": "Interruptores / apagadores",
+    "brand": "Bticino",
+    "source_row": 23,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-c8b748497702138421b3",
+    "category": "Eléctrica",
+    "type_name": "Interruptores / apagadores",
+    "brand": "Schneider",
+    "source_row": 23,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-4677c52fdf413811adc2",
+    "category": "Eléctrica",
+    "type_name": "Interruptores / apagadores",
+    "brand": "Legrand",
+    "source_row": 23,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-f078961aa6eb5a089c00",
+    "category": "Eléctrica",
+    "type_name": "Tableros de distribución",
+    "brand": "Schneider",
+    "source_row": 24,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-edbcff7d6bf5ba40182c",
+    "category": "Eléctrica",
+    "type_name": "Tableros de distribución",
+    "brand": "ABB",
+    "source_row": 24,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-74986ce5ecfbd64d35ea",
+    "category": "Eléctrica",
+    "type_name": "Tableros de distribución",
+    "brand": "Siemens",
+    "source_row": 24,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-de2ea45235151fd12376",
+    "category": "Eléctrica",
+    "type_name": "Tableros de transferencia",
+    "brand": "Schneider",
+    "source_row": 25,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-4ceea7d3710f3ecf5858",
+    "category": "Eléctrica",
+    "type_name": "Tableros de transferencia",
+    "brand": "ABB",
+    "source_row": 25,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-5cbc9213049a32aafaa4",
+    "category": "Eléctrica",
+    "type_name": "Tableros de transferencia",
+    "brand": "Cummins",
+    "source_row": 25,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-811ae72bb9ca889d9409",
+    "category": "Eléctrica",
+    "type_name": "Breakers / termomagnéticos",
+    "brand": "Schneider",
+    "source_row": 26,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-6c906a0a4d76bf19d64b",
+    "category": "Eléctrica",
+    "type_name": "Breakers / termomagnéticos",
+    "brand": "ABB",
+    "source_row": 26,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-447b2601bb0354f5774c",
+    "category": "Eléctrica",
+    "type_name": "Breakers / termomagnéticos",
+    "brand": "Siemens",
+    "source_row": 26,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-dc680a0681b1ba289966",
+    "category": "Eléctrica",
+    "type_name": "Luminarias interiores LED",
+    "brand": "Philips",
+    "source_row": 27,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-f8ae1d1474122e65ebeb",
+    "category": "Eléctrica",
+    "type_name": "Luminarias interiores LED",
+    "brand": "Opple",
+    "source_row": 27,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-f088ecb727966b880b85",
+    "category": "Eléctrica",
+    "type_name": "Luminarias interiores LED",
+    "brand": "Sylvania",
+    "source_row": 27,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-15e577786c2d7872f823",
+    "category": "Eléctrica",
+    "type_name": "Luminarias de emergencia / exteriores",
+    "brand": "Philips",
+    "source_row": 28,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-5c9ace92ce6f9c99709d",
+    "category": "Eléctrica",
+    "type_name": "Luminarias de emergencia / exteriores",
+    "brand": "Legrand",
+    "source_row": 28,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-1be40a84e9a7181f05b6",
+    "category": "Eléctrica",
+    "type_name": "Luminarias de emergencia / exteriores",
+    "brand": "Opple",
+    "source_row": 28,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-3d2794af74a648f8a93e",
+    "category": "Eléctrica",
+    "type_name": "Transformadores",
+    "brand": "Schneider",
+    "source_row": 29,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-02c882f818bb57449b48",
+    "category": "Eléctrica",
+    "type_name": "Transformadores",
+    "brand": "ABB",
+    "source_row": 29,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-f7ace5d40685fded81c6",
+    "category": "Eléctrica",
+    "type_name": "Transformadores",
+    "brand": "Siemens",
+    "source_row": 29,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-c373be8c97fbbbceb466",
+    "category": "Eléctrica",
+    "type_name": "UPS / respaldo de energía",
+    "brand": "APC",
+    "source_row": 30,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-12f855baa660fc76ec12",
+    "category": "Eléctrica",
+    "type_name": "UPS / respaldo de energía",
+    "brand": "Eaton",
+    "source_row": 30,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-c7c365df1d8327a0019c",
+    "category": "Eléctrica",
+    "type_name": "UPS / respaldo de energía",
+    "brand": "Vertiv",
+    "source_row": 30,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-46558256117eda102fd5",
+    "category": "Eléctrica",
+    "type_name": "Generadores eléctricos",
+    "brand": "Cummins",
+    "source_row": 31,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-299e5fea0017e906a69b",
+    "category": "Eléctrica",
+    "type_name": "Generadores eléctricos",
+    "brand": "Caterpillar",
+    "source_row": 31,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-2ba61331cb1c31fbbd7f",
+    "category": "Eléctrica",
+    "type_name": "Generadores eléctricos",
+    "brand": "Perkins",
+    "source_row": 31,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-1da7b3a9a36c6ef5cf4f",
+    "category": "Eléctrica",
+    "type_name": "Pozos a tierra / puesta a tierra",
+    "brand": "Erico",
+    "source_row": 32,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-28f0c6b0cf30a72679e2",
+    "category": "Eléctrica",
+    "type_name": "Pozos a tierra / puesta a tierra",
+    "brand": "nVent",
+    "source_row": 32,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-c05fe1034632a11ec252",
+    "category": "Eléctrica",
+    "type_name": "Pozos a tierra / puesta a tierra",
+    "brand": "Indeco",
+    "source_row": 32,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-d2ce1c00518961536b89",
+    "category": "Eléctrica",
+    "type_name": "Cámaras de vigilancia / CCTV",
+    "brand": "Hikvision",
+    "source_row": 33,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-bda513ccfef36619e06d",
+    "category": "Eléctrica",
+    "type_name": "Cámaras de vigilancia / CCTV",
+    "brand": "Dahua",
+    "source_row": 33,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-eb5bc6115506b1304013",
+    "category": "Eléctrica",
+    "type_name": "Cámaras de vigilancia / CCTV",
+    "brand": "Axis",
+    "source_row": 33,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-6bce20bda7805882edcd",
+    "category": "Eléctrica",
+    "type_name": "Videoporteros / citofonía",
+    "brand": "Bticino",
+    "source_row": 34,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-3f149d2c8d24a596ccb9",
+    "category": "Eléctrica",
+    "type_name": "Videoporteros / citofonía",
+    "brand": "Fermax",
+    "source_row": 34,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-47014931ed4644488eb7",
+    "category": "Eléctrica",
+    "type_name": "Videoporteros / citofonía",
+    "brand": "Commax",
+    "source_row": 34,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-1bf1d8b922e0465fda1e",
+    "category": "Eléctrica",
+    "type_name": "Tableros de medición",
+    "brand": "Schneider",
+    "source_row": 35,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-13c4fc8cdfed086a0dc7",
+    "category": "Eléctrica",
+    "type_name": "Tableros de medición",
+    "brand": "ABB",
+    "source_row": 35,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-84eb2d9cbf58386256be",
+    "category": "Eléctrica",
+    "type_name": "Tableros de medición",
+    "brand": "Siemens",
+    "source_row": 35,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-11d523f9d9fbca1caf79",
+    "category": "Eléctrica",
+    "type_name": "Cargadores vehículos eléctricos",
+    "brand": "ABB",
+    "source_row": 36,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-b519f4514c7dfd14ce69",
+    "category": "Eléctrica",
+    "type_name": "Cargadores vehículos eléctricos",
+    "brand": "Schneider",
+    "source_row": 36,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-995edcb6bdb232e31584",
+    "category": "Eléctrica",
+    "type_name": "Cargadores vehículos eléctricos",
+    "brand": "Siemens",
+    "source_row": 36,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-1b636e0ae5024d72a5bb",
+    "category": "Eléctrica",
+    "type_name": "Sistemas de automatización / domótica",
+    "brand": "Bticino",
+    "source_row": 37,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-5699a4f0b2a963e160db",
+    "category": "Eléctrica",
+    "type_name": "Sistemas de automatización / domótica",
+    "brand": "Schneider",
+    "source_row": 37,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-ef39220fe4f76411bb92",
+    "category": "Eléctrica",
+    "type_name": "Sistemas de automatización / domótica",
+    "brand": "Legrand",
+    "source_row": 37,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-9721093da3b4bb8a65b8",
+    "category": "Eléctrica",
+    "type_name": "Sensores de movimiento",
+    "brand": "Bticino",
+    "source_row": 38,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-e6e39456f90df6d6f512",
+    "category": "Eléctrica",
+    "type_name": "Sensores de movimiento",
+    "brand": "Legrand",
+    "source_row": 38,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-21b8b7e7c726cfa69d91",
+    "category": "Eléctrica",
+    "type_name": "Sensores de movimiento",
+    "brand": "Schneider",
+    "source_row": 38,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-48ea784980107f5e9604",
+    "category": "Eléctrica",
+    "type_name": "Timbres",
+    "brand": "Bticino",
+    "source_row": 39,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-9fd637b6b3661af38c11",
+    "category": "Eléctrica",
+    "type_name": "Timbres",
+    "brand": "Legrand",
+    "source_row": 39,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-347c6447f5e50ffa263c",
+    "category": "Eléctrica",
+    "type_name": "Timbres",
+    "brand": "Vimar",
+    "source_row": 39,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-4da2ade446817308cc75",
+    "category": "Eléctrica",
+    "type_name": "Reguladores / estabilizadores de voltaje",
+    "brand": "Forza",
+    "source_row": 40,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-a424b7c0e9ecb2f84882",
+    "category": "Eléctrica",
+    "type_name": "Reguladores / estabilizadores de voltaje",
+    "brand": "APC",
+    "source_row": 40,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-6a177a431776cfb71e4f",
+    "category": "Eléctrica",
+    "type_name": "Reguladores / estabilizadores de voltaje",
+    "brand": "Tripp Lite",
+    "source_row": 40,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-98e24d0234949628bd33",
+    "category": "Eléctrica",
+    "type_name": "Bandejas portacables",
+    "brand": "Legrand",
+    "source_row": 41,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-8ed45b8086380303fc6c",
+    "category": "Eléctrica",
+    "type_name": "Bandejas portacables",
+    "brand": "Indeco",
+    "source_row": 41,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-5135bb573ceb14fb75e7",
+    "category": "Eléctrica",
+    "type_name": "Bandejas portacables",
+    "brand": "Mopal",
+    "source_row": 41,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-6a371ed3954e7c182812",
+    "category": "Mecánica",
+    "type_name": "Extractores de aire axiales",
+    "brand": "Soler & Palau",
+    "source_row": 42,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-fa18775023415b0c5753",
+    "category": "Mecánica",
+    "type_name": "Extractores de aire axiales",
+    "brand": "Sodeca",
+    "source_row": 42,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-85bfec1098a246a3f586",
+    "category": "Mecánica",
+    "type_name": "Extractores de aire axiales",
+    "brand": "Casals",
+    "source_row": 42,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-d729b9516417d4ba576d",
+    "category": "Mecánica",
+    "type_name": "Extractores centrífugos",
+    "brand": "Soler & Palau",
+    "source_row": 43,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-a8aec61e9324119ad6fc",
+    "category": "Mecánica",
+    "type_name": "Extractores centrífugos",
+    "brand": "Sodeca",
+    "source_row": 43,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-cd2035fea15b2b308a4b",
+    "category": "Mecánica",
+    "type_name": "Extractores centrífugos",
+    "brand": "Casals",
+    "source_row": 43,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-5b9353e1659d5dad0dbc",
+    "category": "Mecánica",
+    "type_name": "Ventiladores industriales (HVLS)",
+    "brand": "Casals",
+    "source_row": 44,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-df4c615061a8e6ec3f47",
+    "category": "Mecánica",
+    "type_name": "Ventiladores industriales (HVLS)",
+    "brand": "Big Ass Fans",
+    "source_row": 44,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-fac514ba02e06521342e",
+    "category": "Mecánica",
+    "type_name": "Ventiladores industriales (HVLS)",
+    "brand": "Multi-Wing",
+    "source_row": 44,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-6c695ee5e3de5ca59ae6",
+    "category": "Mecánica",
+    "type_name": "Aire acondicionado tipo split",
+    "brand": "Daikin",
+    "source_row": 45,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-f4d5a4eeeffa2c9e7053",
+    "category": "Mecánica",
+    "type_name": "Aire acondicionado tipo split",
+    "brand": "LG",
+    "source_row": 45,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-2b39d02f828e7dbb530e",
+    "category": "Mecánica",
+    "type_name": "Aire acondicionado tipo split",
+    "brand": "York",
+    "source_row": 45,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-39090fc381a48dfc1fb5",
+    "category": "Mecánica",
+    "type_name": "Aire acondicionado por ductos",
+    "brand": "Daikin",
+    "source_row": 46,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-93ea6f93983cd742d3c5",
+    "category": "Mecánica",
+    "type_name": "Aire acondicionado por ductos",
+    "brand": "Carrier",
+    "source_row": 46,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-e54e58e25f5db0d17399",
+    "category": "Mecánica",
+    "type_name": "Aire acondicionado por ductos",
+    "brand": "York",
+    "source_row": 46,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-3418e0e814402f9f6074",
+    "category": "Mecánica",
+    "type_name": "Unidades manejadoras de aire (UMA)",
+    "brand": "Carrier",
+    "source_row": 47,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-af8f12640fcc1cae6959",
+    "category": "Mecánica",
+    "type_name": "Unidades manejadoras de aire (UMA)",
+    "brand": "Trane",
+    "source_row": 47,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-aa2f8fb695fa1d2c56b0",
+    "category": "Mecánica",
+    "type_name": "Unidades manejadoras de aire (UMA)",
+    "brand": "York",
+    "source_row": 47,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-6aa7cfc16877512c1afd",
+    "category": "Mecánica",
+    "type_name": "Chillers",
+    "brand": "Carrier",
+    "source_row": 48,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-8ddf64e98e4b79b29e0f",
+    "category": "Mecánica",
+    "type_name": "Chillers",
+    "brand": "York",
+    "source_row": 48,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-6c1c9eb0c13e3596607a",
+    "category": "Mecánica",
+    "type_name": "Chillers",
+    "brand": "Daikin",
+    "source_row": 48,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-f124e7933f9a40f6ce47",
+    "category": "Mecánica",
+    "type_name": "Torres de enfriamiento",
+    "brand": "Marley",
+    "source_row": 49,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-3bb61789aea744104cd6",
+    "category": "Mecánica",
+    "type_name": "Torres de enfriamiento",
+    "brand": "BAC",
+    "source_row": 49,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-9e0211f6788451f1c4e0",
+    "category": "Mecánica",
+    "type_name": "Torres de enfriamiento",
+    "brand": "Boldrocchi",
+    "source_row": 49,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-7aa5a8c5dd18d183a922",
+    "category": "Mecánica",
+    "type_name": "Calderas",
+    "brand": "Distral",
+    "source_row": 50,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-8638c7d32d8d8cf5a69e",
+    "category": "Mecánica",
+    "type_name": "Calderas",
+    "brand": "Cleaver-Brooks",
+    "source_row": 50,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-d945b3fd18dc1ad0b9ba",
+    "category": "Mecánica",
+    "type_name": "Calderas",
+    "brand": "Ferroli",
+    "source_row": 50,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Verificado en esta conversación (búsqueda real)"
+  },
+  {
+    "id": "tax-1f36cff31b0abd9e593e",
+    "category": "Mecánica",
+    "type_name": "Compresores de aire",
+    "brand": "Atlas Copco",
+    "source_row": 51,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-a79d2f5fcc1ff48350c1",
+    "category": "Mecánica",
+    "type_name": "Compresores de aire",
+    "brand": "Ingersoll Rand",
+    "source_row": 51,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-45169e79184826d414ef",
+    "category": "Mecánica",
+    "type_name": "Compresores de aire",
+    "brand": "Kaeser",
+    "source_row": 51,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-96c75bbbdff77d031dbe",
+    "category": "Mecánica",
+    "type_name": "Ascensores",
+    "brand": "Otis",
+    "source_row": 52,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-0a242296fcd69f313841",
+    "category": "Mecánica",
+    "type_name": "Ascensores",
+    "brand": "Schindler",
+    "source_row": 52,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-fa013f4fcb3750224867",
+    "category": "Mecánica",
+    "type_name": "Ascensores",
+    "brand": "KONE",
+    "source_row": 52,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-4731f2cd65069c72806f",
+    "category": "Mecánica",
+    "type_name": "Escaleras mecánicas",
+    "brand": "Otis",
+    "source_row": 53,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-b2bbe7be8a646888cf9b",
+    "category": "Mecánica",
+    "type_name": "Escaleras mecánicas",
+    "brand": "Schindler",
+    "source_row": 53,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-386dd7aa666f5ad88003",
+    "category": "Mecánica",
+    "type_name": "Escaleras mecánicas",
+    "brand": "ThyssenKrupp",
+    "source_row": 53,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-aa96bc8e6be9f277db46",
+    "category": "Mecánica",
+    "type_name": "Montacargas",
+    "brand": "Otis",
+    "source_row": 54,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-3feb973d357a2185d3bb",
+    "category": "Mecánica",
+    "type_name": "Montacargas",
+    "brand": "KONE",
+    "source_row": 54,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-75f71967a4afc3463b50",
+    "category": "Mecánica",
+    "type_name": "Montacargas",
+    "brand": "Schindler",
+    "source_row": 54,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-4a308cacf6307763dc9e",
+    "category": "Mecánica",
+    "type_name": "Rociadores contra incendio",
+    "brand": "Viking",
+    "source_row": 55,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-5dd1eb15885615f1f12d",
+    "category": "Mecánica",
+    "type_name": "Rociadores contra incendio",
+    "brand": "Tyco",
+    "source_row": 55,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-a4de594c59bfa5457809",
+    "category": "Mecánica",
+    "type_name": "Rociadores contra incendio",
+    "brand": "Reliable",
+    "source_row": 55,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-559c59ad412da8045161",
+    "category": "Mecánica",
+    "type_name": "Gabinetes contra incendio",
+    "brand": "Viking",
+    "source_row": 56,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-0aa2101ec53b61dd9b93",
+    "category": "Mecánica",
+    "type_name": "Gabinetes contra incendio",
+    "brand": "Firetec",
+    "source_row": 56,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-5e67c1d38bf54617cbf5",
+    "category": "Mecánica",
+    "type_name": "Gabinetes contra incendio",
+    "brand": "Ansul",
+    "source_row": 56,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-5a2581698a051191d22c",
+    "category": "Mecánica",
+    "type_name": "Bombas contra incendio",
+    "brand": "Peerless",
+    "source_row": 57,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-96948701d8ef03d4ecf6",
+    "category": "Mecánica",
+    "type_name": "Bombas contra incendio",
+    "brand": "Patterson",
+    "source_row": 57,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-301d2e67dc75b26054c2",
+    "category": "Mecánica",
+    "type_name": "Bombas contra incendio",
+    "brand": "Hidrostal",
+    "source_row": 57,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-29eee6d17625f7474ef6",
+    "category": "Mecánica",
+    "type_name": "Extintores",
+    "brand": "Amerex",
+    "source_row": 58,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-132f5e5b100ea8f70022",
+    "category": "Mecánica",
+    "type_name": "Extintores",
+    "brand": "Ansul",
+    "source_row": 58,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-b82781113ab825657016",
+    "category": "Mecánica",
+    "type_name": "Extintores",
+    "brand": "Kidde",
+    "source_row": 58,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-6ccee624ac041fe3d9bc",
+    "category": "Mecánica",
+    "type_name": "Dampers / compuertas de ventilación",
+    "brand": "Ruskin",
+    "source_row": 59,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-f4abefd6f7b65048a790",
+    "category": "Mecánica",
+    "type_name": "Dampers / compuertas de ventilación",
+    "brand": "Greenheck",
+    "source_row": 59,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-3610e746054ab44fe75a",
+    "category": "Mecánica",
+    "type_name": "Dampers / compuertas de ventilación",
+    "brand": "Soler & Palau",
+    "source_row": 59,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-2b991f30d5e432b6ac12",
+    "category": "Mecánica",
+    "type_name": "Difusores y rejillas de aire",
+    "brand": "Titus",
+    "source_row": 60,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-c3f704719129fd9ea7cb",
+    "category": "Mecánica",
+    "type_name": "Difusores y rejillas de aire",
+    "brand": "Krueger",
+    "source_row": 60,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-6ebc7c14450858e08345",
+    "category": "Mecánica",
+    "type_name": "Difusores y rejillas de aire",
+    "brand": "Soler & Palau",
+    "source_row": 60,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-d44c1d61394a7580180a",
+    "category": "Mecánica",
+    "type_name": "Extractores de humo (cocina industrial)",
+    "brand": "CaptiveAire",
+    "source_row": 61,
+    "source_brand_column": "Marca 1",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-51c463d99b5c9aa7b124",
+    "category": "Mecánica",
+    "type_name": "Extractores de humo (cocina industrial)",
+    "brand": "Greenheck",
+    "source_row": 61,
+    "source_brand_column": "Marca 2",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  },
+  {
+    "id": "tax-233e1945a2c3650b7ed8",
+    "category": "Mecánica",
+    "type_name": "Extractores de humo (cocina industrial)",
+    "brand": "Soler & Palau",
+    "source_row": 61,
+    "source_brand_column": "Marca 3",
+    "source_confidence": "Marca real reconocida, no verificada hoy para Perú específicamente"
+  }
+]

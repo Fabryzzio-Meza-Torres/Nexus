@@ -1,0 +1,116 @@
+[
+  {
+    "id": "req-demo-1",
+    "project_id": "project-demo",
+    "document_id": "document-demo",
+    "category": "Sanitaria",
+    "type_name": "Inodoros",
+    "quantity": 20,
+    "unit": "unidad",
+    "specifications": {
+      "descarga": "dual 3/6L",
+      "montaje": "piso",
+      "alto": "78 cm"
+    },
+    "keywords": [
+      "Inodoros"
+    ],
+    "source_excerpt": "20 unidades de Inodoros (descarga dual 3/6L, montaje piso, alto 78 cm)",
+    "confidence": 1
+  },
+  {
+    "id": "req-demo-2",
+    "project_id": "project-demo",
+    "document_id": "document-demo",
+    "category": "Sanitaria",
+    "type_name": "Lavatorios",
+    "quantity": 6,
+    "unit": "unidad",
+    "specifications": {
+      "montaje": "sobre encimera",
+      "material": "porcelana",
+      "ancho": "50 cm"
+    },
+    "keywords": [
+      "Lavatorios"
+    ],
+    "source_excerpt": "6 unidades de Lavatorios (montaje sobre encimera, material porcelana, ancho 50 cm)",
+    "confidence": 1
+  },
+  {
+    "id": "req-demo-3",
+    "project_id": "project-demo",
+    "document_id": "document-demo",
+    "category": "Eléctrica",
+    "type_name": "Tomacorrientes",
+    "quantity": 6,
+    "unit": "unidad",
+    "specifications": {
+      "amperaje": "16A",
+      "tension": "220V"
+    },
+    "keywords": [
+      "Tomacorrientes"
+    ],
+    "source_excerpt": "6 unidades de Tomacorrientes (amperaje 16A, tension 220V)",
+    "confidence": 1
+  },
+  {
+    "id": "req-demo-4",
+    "project_id": "project-demo",
+    "document_id": "document-demo",
+    "category": "Eléctrica",
+    "type_name": "Interruptores / apagadores",
+    "quantity": 6,
+    "unit": "unidad",
+    "specifications": {
+      "modulos": "simple",
+      "tension": "220V"
+    },
+    "keywords": [
+      "Interruptores / apagadores"
+    ],
+    "source_excerpt": "6 unidades de Interruptores / apagadores (modulos simple, tension 220V)",
+    "confidence": 1
+  },
+  {
+    "id": "req-demo-5",
+    "project_id": "project-demo",
+    "document_id": "document-demo",
+    "category": "Mecánica",
+    "type_name": "Extractores de aire axiales",
+    "quantity": 6,
+    "unit": "unidad",
+    "specifications": {
+      "caudal": "300 m3/h grado verificado",
+      "nivel_ruido": "35 dB grado verificado",
+      "diametro": "20 cm grado verificado",
+      "certificacion": "ficha técnica del fabricante"
+    },
+    "keywords": [
+      "Extractores de aire axiales"
+    ],
+    "source_excerpt": "6 unidades de Extractores de aire axiales (caudal 300 m3/h grado verificado, nivel_ruido 35 dB grado verificado, diametro 20 cm grado verificado, certificacion ficha técnica del fabricante)",
+    "confidence": 1
+  },
+  {
+    "id": "req-demo-6",
+    "project_id": "project-demo",
+    "document_id": "document-demo",
+    "category": "Mecánica",
+    "type_name": "Extractores centrífugos",
+    "quantity": 6,
+    "unit": "unidad",
+    "specifications": {
+      "caudal": "600 m3/h grado verificado",
+      "presion": "150 Pa grado verificado",
+      "diametro": "25 cm grado verificado",
+      "certificacion": "ficha técnica del fabricante"
+    },
+    "keywords": [
+      "Extractores centrífugos"
+    ],
+    "source_excerpt": "6 unidades de Extractores centrífugos (caudal 600 m3/h grado verificado, presion 150 Pa grado verificado, diametro 25 cm grado verificado, certificacion ficha técnica del fabricante)",
+    "confidence": 1
+  }
+]
