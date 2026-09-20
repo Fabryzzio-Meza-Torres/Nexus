@@ -170,8 +170,8 @@ def main():
     save('demo-requirements.json',chosen)
     save('demo-project.json',{'id':'project-demo','name':'Obra de demostración','project_location':{'city':'Lima','district':'Miraflores','country':'PE','latitude':-12.1211,'longitude':-77.0298},'is_demo_data':True})
 
-    doc_lines=['# Expediente técnico de prueba — DEMO','',
-               'Documento sintético para probar la interpretación de Nexus. No es un expediente real.','',
+    doc_lines=['# Lista de materiales de prueba — DEMO','',
+               'Documento sintético para probar la interpretación de Nexus. No es una lista de materiales real.','',
                '## Partidas','']
     for x in chosen:
         doc_lines.append(f"- {x['category']}: {x['source_excerpt']}.")

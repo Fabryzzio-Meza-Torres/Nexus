@@ -1,7 +1,7 @@
 # Nexus — Especificación de producto
 Versión CSV + roles, 10 de septiembre de 2026. Actualiza el paquete nexus-hackathon-2h30-final.zip.
 ## Problema y cliente
-Las constructoras necesitan convertir expedientes fragmentados en una decisión trazable de qué producto cotizar y con qué proveedor, considerando compatibilidad y cercanía para evaluar logística de flete.
+Las constructoras necesitan convertir listas de requerimientos fragmentadas en una decisión trazable de qué producto cotizar y con qué proveedor, considerando compatibilidad y cercanía para evaluar logística de flete.
 ## Contrato vigente
 - El CSV `data/source/catalogo-marcas-por-tipo.csv` es el input principal del catálogo. Contiene clasificación y marcas, no ofertas verificadas.
 - Las fichas técnicas son exclusivamente documentos de prueba para extraer requerimientos y buscar/matchear contra el catálogo. Nunca alimentan su construcción ni enriquecimiento.

@@ -11,7 +11,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Nexus — expediente a decisión de compra",
+  title: "Nexus — lista de materiales a decisión de compra",
   description: "Documento técnico → requerimientos → propuesta global → lista lista para cotizar",
 };
 

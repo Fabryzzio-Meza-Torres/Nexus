@@ -136,8 +136,8 @@ export async function POST(req: Request) {
       requirements.length === 0
         ? "Sin requerimientos detectados en el documento."
         : source === "gemini"
-          ? "Expediente interpretado con IA y validado."
-          : "Expediente interpretado.",
+          ? "Lista interpretada con IA y validada."
+          : "Lista interpretada.",
     meta: { engine: source, origin, chars: text.length, requirements: requirements.length },
   });
 }

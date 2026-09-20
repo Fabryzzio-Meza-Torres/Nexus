@@ -1,6 +1,6 @@
-# Expediente técnico de prueba — DEMO
+# Lista de materiales de prueba — DEMO
 
-Documento sintético para probar la interpretación de Nexus. No es un expediente real.
+Documento sintético para probar la interpretación de Nexus. No es una lista de materiales real.
 
 ## Partidas
 

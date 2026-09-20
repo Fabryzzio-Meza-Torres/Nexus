@@ -146,7 +146,7 @@ export default function DemoPage() {
     setAnalyzing(true);
     setDocName(
       payload.file?.name ??
-        (payload.example ? "Expediente técnico de ejemplo" : "Contenido pegado"),
+        (payload.example ? "Lista de materiales de ejemplo" : "Contenido pegado"),
     );
     const form = new FormData();
     if (payload.file) form.append("file", payload.file);
@@ -252,7 +252,7 @@ export default function DemoPage() {
                 <span className="mark">N</span>
                 <div>
                   <div className="name">Nexus</div>
-                  <div className="sub">Expediente → decisión de compra</div>
+                  <div className="sub">Lista de materiales → decisión de compra</div>
                 </div>
               </div>
             </div>
@@ -260,9 +260,9 @@ export default function DemoPage() {
         </div>
         <div className="screen">
           <div className="screen-inner">
-            <p className="kicker">Paso 1 de 3 · Carga del expediente</p>
+            <p className="kicker">Paso 1 de 3 · Carga de la lista</p>
             <h2 style={{ maxWidth: "15em", marginBottom: 10 }}>
-              Sube el expediente técnico y Nexus identifica qué hay que cotizar.
+              Sube la lista de materiales y Nexus identifica qué hay que cotizar.
             </h2>
             <p className="muted" style={{ maxWidth: "42em", marginBottom: 26 }}>
               La IA interpreta la obra; Nexus busca esos requerimientos contra productos que
@@ -272,7 +272,7 @@ export default function DemoPage() {
             {role !== "logistics" && (
               <div className="callout">
                 <Info size={15} />
-                En el flujo real, Logística carga el expediente. Aquí puedes hacerlo desde cualquier rol para probar la demo.
+                En el flujo real, Logística carga la lista de materiales. Aquí puedes hacerlo desde cualquier rol para probar la demo.
               </div>
             )}
             <UploadZone analyzing={analyzing} onAnalyze={analyze} />
@@ -511,7 +511,7 @@ function UploadZone({
         <div className="icon">
           <Upload size={22} />
         </div>
-        <div className="t">Arrastra el expediente aquí</div>
+        <div className="t">Arrastra la lista de materiales aquí</div>
         <div className="s">PDF, Markdown o TXT · hasta 10 MB · o haz clic para elegir</div>
         <span className="btn btn-primary">Seleccionar archivo</span>
         <input
@@ -532,14 +532,14 @@ function UploadZone({
           Pegar contenido
         </button>
         <button className="btn btn-secondary btn-sm" disabled={analyzing} onClick={() => onAnalyze({ example: true })}>
-          Usar expediente de ejemplo
+          Usar lista de ejemplo
         </button>
       </div>
 
       {showPaste && (
         <div style={{ marginTop: 12 }}>
           <textarea
-            placeholder="Pega aquí el texto de la ficha técnica o del expediente…"
+            placeholder="Pega aquí el texto de la ficha técnica o de la lista…"
             value={paste}
             onChange={(e) => setPaste(e.target.value)}
           />
@@ -570,15 +570,15 @@ function DocumentPanel({
   onAnalyze: (p: { file?: File; text?: string; example?: boolean }) => void;
   onReset: () => void;
 }) {
-  const src = state.extraction_source === "gemini" ? "IA · Gemini" : "Análisis del expediente";
+  const src = state.extraction_source === "gemini" ? "IA · Gemini" : "Análisis de la lista";
   return (
     <div className="panel">
       <div className="ph">
         <div className="k">Resultado del match</div>
-        <h3>Requerimientos identificados en el expediente</h3>
+        <h3>Requerimientos identificados en la lista de materiales</h3>
         <p>
           Cada fila es una necesidad de compra extraída del documento: qué producto, cuánto y con
-          qué especificaciones. El texto exacto del expediente está en «Detalle».
+          qué especificaciones. El texto exacto de la lista está en «Detalle».
         </p>
       </div>
       <div className="pb" style={{ paddingBottom: 0 }}>
@@ -588,7 +588,7 @@ function DocumentPanel({
           onClick={onReset}
           style={{ justifyContent: "center", gap: 9 }}
         >
-          <RotateCcw size={17} /> Cargar otro expediente
+          <RotateCcw size={17} /> Cargar otra lista
         </button>
       </div>
       <div className="pb" style={{ paddingBottom: 0 }}>
@@ -695,7 +695,7 @@ function FragmentReq({
         <tr className="detail">
           <td colSpan={5}>
             <div>
-              <strong>Extracto del expediente</strong>
+              <strong>Extracto de la lista</strong>
             </div>
             <div className="excerpt">{r.source_excerpt || "(sin texto asociado)"}</div>
             <div style={{ marginTop: 6, color: "var(--text-55)" }}>

@@ -66,7 +66,7 @@ function splitLines(text: string): string[] {
     .filter((s) => s.length > 2);
 }
 
-/** Una línea con paréntesis = un ítem con sus especificaciones (estilo expediente).
+/** Una línea con paréntesis = un ítem con sus especificaciones (estilo lista de materiales).
  * Sin paréntesis = puede enumerar varios ítems separados por coma o "y". */
 function segmentsOf(line: string): string[] {
   if (/\(.*\)/.test(line)) return [line];
